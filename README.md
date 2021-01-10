@@ -13,3 +13,9 @@ https://www.evernote.com/l/AtDDBGaMXSVBzYi0LZi5CLaTBshBcRy0KNQ
 
 ### Result
 https://www.evernote.com/l/AtAV__WhAEhAlYp2wTDdpJ-8epNU5_3ReFE
+
+
+## Обідаючі філософи
+* Написати програму у якій реалізовано всі 4 класичних задачі паралельного програмування:
+### Result
+https://www.evernote.com/l/AtAMMHkwWO1M2Zjdy3HzmpE10eqUUF4uYPQ
