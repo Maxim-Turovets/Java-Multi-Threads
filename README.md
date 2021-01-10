@@ -15,7 +15,14 @@ https://www.evernote.com/l/AtDDBGaMXSVBzYi0LZi5CLaTBshBcRy0KNQ
 https://www.evernote.com/l/AtAV__WhAEhAlYp2wTDdpJ-8epNU5_3ReFE
 
 
-## Обідаючі філософи
+## Обідаючі філософи (ReentrantLock)
 * Написати програму у якій реалізовано всі 4 класичних задачі паралельного програмування:
 ### Result
 https://www.evernote.com/l/AtAMMHkwWO1M2Zjdy3HzmpE10eqUUF4uYPQ
+
+
+
+## Виробники — споживачі (Semaphore)
+* Написати програму у якій реалізовано всі 4 класичних задачі паралельного програмування:
+### Result
+https://www.evernote.com/l/AtBf805KvLNEjo-GH_zGyOl27y3DEm-zPH4
