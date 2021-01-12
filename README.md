@@ -42,3 +42,9 @@ https://www.evernote.com/l/AtBf805KvLNEjo-GH_zGyOl27y3DEm-zPH4
 ### Result
 https://www.evernote.com/l/AtBO_bAQ2SRD75cjbKA-XHhmPJTrbtKGlfE
 
+## Сплячий перукар
+* Написати програму у якій реалізовано всі 4 класичних задачі паралельного програмування:
+### Result
+https://www.evernote.com/l/AtAv5dzkBS5Pq6Ggtho1Eu0_QPCYhMJYrJY
+
+
