@@ -40,5 +40,5 @@ https://www.evernote.com/l/AtBf805KvLNEjo-GH_zGyOl27y3DEm-zPH4
 ## Письменники — читачі без пріоритету письменникам
 * Написати програму у якій реалізовано всі 4 класичних задачі паралельного програмування:
 ### Result
-https://www.evernote.com/l/AtAnZImgVM1AgJrGlC7Flewn47FlW-e5L7M
+https://www.evernote.com/l/AtBO_bAQ2SRD75cjbKA-XHhmPJTrbtKGlfE
 
